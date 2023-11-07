@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "test",
+      "name": "test",
+      "password": "test",
+      "email": "test",
+      "phone": "test",
+      "country": "",
+      "address": "wer",
+      "gender": "male"
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "admin",
+      "email": "",
+      "phone": "123",
+      "country": "usa",
+      "address": "haee",
+      "gender": "male"
+    },
+    {
+      "id": "test123",
+      "name": "test123",
+      "password": "test123",
+      "email": "test123@gmail.com",
+      "phone": "test123",
+      "country": "india",
+      "address": "test123",
+      "gender": "male"
+    }
+  ]
+}
